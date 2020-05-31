@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ted Mate</string>
+    <string name="open_door">Open the damn front door</string>
+    <string name="timer_widget_text">OPEN</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
